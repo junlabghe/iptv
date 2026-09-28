@@ -1,0 +1,19 @@
+# 公开 IPTV M3U 播放列表来源
+# 每行一个 URL；以 # 开头的行是注释，会被脚本忽略。
+# 增删来源只需改这个文件，不用动脚本。
+
+# iptv-org：全球公开源的中国区列表，更新较稳定
+https://iptv-org.github.io/iptv/countries/cn.m3u
+
+# 122566/cn-iptv：中国区精选（央视+卫视），jsDelivr 加速地址
+https://cdn.jsdelivr.net/gh/122566/cn-iptv@v1.0.0/cn_live.m3u
+
+# cs3306/IPTV-Sources：40+ 公开源聚合，每天凌晨更新，含备用地址
+https://raw.githubusercontent.com/cs3306/IPTV-Sources/main/data/output/iptv_collection.m3u
+
+# Guovin/iptv-api：多源测速聚合，每天 06:00 / 18:00 更新
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+
+# fanmingming/live：维护活跃的央视/卫视源；注意该文件为 IPv6 专线，
+# 部分设备或纯 IPv4 网络无法播放，仅作为补充来源
+https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
