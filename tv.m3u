@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CCTV-1" group-title="央视频道",CCTV-1
-http://107.150.60.122/live/cctv12hd.m3u8
+http://198.204.228.26/live/cctv14hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-1" group-title="央视频道",CCTV-1
 http://198.204.228.26/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-1" group-title="央视频道",CCTV-1
