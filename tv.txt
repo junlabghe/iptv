@@ -1,7 +1,7 @@
 央视频道,#genre#
+CCTV-1,http://198.204.228.26/live/cctv15hd.m3u8
 CCTV-1,http://198.204.228.26/live/cctv1hd.m3u8
 CCTV-1,http://204.12.221.218:8181/3m1080p/cctv1.m3u8
-CCTV-1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 CCTV-2,http://107.150.60.122/live/cctv2hd.m3u8
 CCTV-2,http://192.151.150.154/live/cctv2hd.m3u8
 CCTV-2,http://198.204.228.26/live/cctv2hd.m3u8
@@ -125,8 +125,8 @@ CHC-动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 海南卫视,http://58.248.112.205:8006/GD_CUCC/G_HAINAN-HQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHTh7JGAu1YMGJ6XT%2FnqLPsRZEJK%2BpW4Fs700noHhVlGc&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 海南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227029/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEuBMjt2kLMD8fAO7QYER7Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
-重庆卫视,http://222.169.85.8:9901/tsfile/live/0142_1.m3u8
 重庆卫视,http://58.248.112.205:8006/GD_CUCC/G_CHONGQING-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHS5XA1hsd3RREgysPiqqJeTFDuOvLs1zu4981Mqid2sx&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
+重庆卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqwshd
 四川卫视,http://107.150.60.122/live/scwshd.m3u8
 四川卫视,http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
 四川卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8
